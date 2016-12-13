@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".VideoActivity">
+
+    <item
+        android:id="@+id/action_logout"
+        android:icon="@drawable/common_google_signin_btn_icon_dark_normal"
+        android:title="@string/accion_cerrar_sesion"
+        app:showAsAction="always" />
+
+</menu>

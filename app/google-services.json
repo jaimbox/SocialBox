@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1032611064425",
+    "project_id": "firebase-socialbox"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032611064425:android:31da2253821c964b",
+        "android_client_info": {
+          "package_name": "com.jizaguirre.socialb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032611064425-s36b114skp9oa492ib1ok40vmqrvmrjp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jizaguirre.socialb",
+            "certificate_hash": "488A590F5F546DF742A53FAFA8A3E22F292937EC"
+          }
+        },
+        {
+          "client_id": "1032611064425-hmpoo80ug76g2g1gcl8c1tmdg8383ubp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyjvydo3Rkd0EEc03aRqa88JMW9XRVg2g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
